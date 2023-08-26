@@ -1,1 +1,4 @@
-print("Hello!")
+def show(msg):
+    print(msg)
+
+show("Hello")
